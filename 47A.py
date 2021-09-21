@@ -7,4 +7,4 @@ for i in range(1, end):
         print("YES")
         break
 else:
-    print("No")
+    print("NO")
